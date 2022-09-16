@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Java&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/React-9cf?style=flat-square&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Orange for Oracle-orange?style=flat-square&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-blueviolet?style=flat-square&logo=Figma&logoColor=white">
   </div>
