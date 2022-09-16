@@ -18,6 +18,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Orange for Oracle-orange?style=flat-square&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/DevonModelArchitect?style=flat-square&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/DevonModelArchitect?style=flat-square&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-blueviolet?style=flat-square&logo=Figma&logoColor=white">
   </div>
