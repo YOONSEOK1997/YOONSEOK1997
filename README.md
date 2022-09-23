@@ -16,13 +16,12 @@
 <img src="https://img.shields.io/badge/React-9cf?style=flat-square&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Css-yellow?style=flat-square&logo=Css&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-critical?style=flat-square&logo=HTML&logoColor=white">
-<img src="https://img.shields.io/badge/jsp-red?style=flat-square&logo=jsp&logoColor=white">
+<img src="https://img.shields.io/badge/JSP-red?style=flat-square&logo=jsp&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-purple?style=flat-square&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColwhitor=white">
 <img src="https://img.shields.io/badge/VSC-blue?style=flat-square&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-orange?style=flat-square&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-yellowgreen?style=flat-square&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/DevonModelArchitect-blue?style=flat-square&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-blueviolet?style=flat-square&logo=Figma&logoColor=white">
   </div>
